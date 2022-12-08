@@ -1,0 +1,17 @@
+export default Colors = {
+    neutral1: "#181818",
+    neutral2: "#0E0E0E",
+    neutral3: "#2A2A2A",
+    primary: "#636363",
+    secondary: "#9C9C9C",
+    white: "#FFFFFF",
+    black: "#000000",
+    green: "#50C878",
+    coolGrey: "#B9BDC1",
+    blue: "#4E8FC5",
+    tab_active_color: "#0E0E0E",
+    tab_inactive_color: "#808080",
+    border: "#F1F1F1",
+    red: "#FF0000",
+    light_light_blue: "#4E8FC51A",
+}
