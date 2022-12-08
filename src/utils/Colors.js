@@ -1,8 +1,8 @@
 export default Colors = {
-    neutral1: "#181818",
+    neutral1: '#181818',
     neutral2: "#0E0E0E",
     neutral3: "#2A2A2A",
-    primary: "#636363",
+    primary: "#0000D1",
     secondary: "#9C9C9C",
     white: "#FFFFFF",
     black: "#000000",
